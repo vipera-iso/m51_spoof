@@ -1,0 +1,6 @@
+id=m51_spoof
+name=M51 to S22 Identity Spoof
+version=1.0
+versionCode=1
+author=local
+description=Spoof build/ROM/RIL identity of M51 to S22 for UN1CA root/custom-ROM hiding. Kept separate so updates to other modules do not wipe these props.
